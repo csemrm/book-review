@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>Book Reviews</title>
   <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio"></script>
-  @vite('resources/css/app.css')
+
 
   {{-- blade-formatter-disable --}}
   <style type="text/tailwindcss">

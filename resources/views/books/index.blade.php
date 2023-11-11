@@ -54,4 +54,7 @@
             </li>
         @endforelse
     </ul>
+    @if ($books->count())
+            <div> {{ $books->links() }}</div>
+        @endif
 @endsection
